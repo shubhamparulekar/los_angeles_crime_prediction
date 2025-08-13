@@ -77,7 +77,8 @@ The time series models were evaluated on MAE, RMSE, and R² metrics.
 
 
 * **Linear Regression**: Surprisingly, this simple model provided the **best performance**, outperforming the more complex models. This suggests that the engineered lag and seasonal features captured the underlying linear trends effectively.
-  <img width="568" height="248" alt="image" src="https://github.com/user-attachments/assets/28ae434a-ff9f-431b-a10a-a4d56e058f79" />
+<img width="568" height="217" alt="image" src="https://github.com/user-attachments/assets/67a8fe6a-6e9c-49dc-aef4-7090868afdc5" />
+
 
 * **Random Forest**: Underperformed on this dataset, yielding larger errors.
   <img width="568" height="248" alt="image" src="https://github.com/user-attachments/assets/a7ea3d21-00b6-4288-8ba0-72714fd48eb3" />
